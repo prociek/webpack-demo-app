@@ -5,6 +5,8 @@
 // const alertService = new AlertService();
 // const componentService = new ComponentService();
 // run(alertService, componentService);
+//import "./styles/index.css";
+import "./main.scss";
 
 const obj = {
   name: "tomek",
@@ -12,5 +14,5 @@ const obj = {
 };
 
 const obj2 = { ...obj, developer: "not yet" };
-debugger
+debugger;
 console.log(obj2);

@@ -1,7 +1,5 @@
-$primary: teal;
-$danger: purple;
 body {
-  background-color: $primary;
+  color: violet;
   display: grid;
   flex-direction: column;
   clip-path: rect(0, 0, 0, 0);
